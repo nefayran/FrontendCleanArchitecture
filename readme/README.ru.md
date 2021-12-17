@@ -31,7 +31,7 @@
 
 ### Файловая структура
 
-![](.\picture-1.png)
+![](https://github.com/nefayran/FrontendCleanArchitecture/blob/master/readme/picture-1.png)
 
 ### Слои и распределение ответственности
 - Domain - базовые бизнес сущности и правила
@@ -44,7 +44,7 @@
 Каждый слой должен обладать интерфейсами для входных и выходных данных.
 Действие должно базироваться на бизнес сущностях и правилах.
 
-![](.\picture-2.png)
+![](https://github.com/nefayran/FrontendCleanArchitecture/blob/master/readme/picture-2.png)
 
 ## Лицензия
 

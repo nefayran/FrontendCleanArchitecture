@@ -31,7 +31,7 @@ You can just call the Query and Application layer.
 
 ## File structure
 
-![](.\picture-1.png)
+![](https://github.com/nefayran/FrontendCleanArchitecture/blob/master/readme/picture-1.png)
 
 ## Layers and distribution of responsibilities
 - Domain - basic business entities and rules
@@ -44,7 +44,7 @@ You can just call the Query and Application layer.
 Each layer must have interfaces for input and output data.
 The action should be based on business entities and rules.
 
-![](.\picture-2.png)
+![](https://github.com/nefayran/FrontendCleanArchitecture/blob/master/readme/picture-2.png
 
 ## License
 
