@@ -44,7 +44,7 @@ You can just call the Query and Application layer.
 Each layer must have interfaces for input and output data.
 The action should be based on business entities and rules.
 
-![](https://github.com/nefayran/FrontendCleanArchitecture/blob/master/readme/picture-2.png
+![](https://github.com/nefayran/FrontendCleanArchitecture/blob/master/readme/picture-2.png)
 
 ## License
 
